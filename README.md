@@ -2,6 +2,8 @@
 
 Chat channel documentation for Chicago OSS Devs.
 
+## Recommend Apps
+
 
 ## Connecting with an IRC Client
 
