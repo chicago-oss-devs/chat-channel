@@ -4,7 +4,7 @@ Chat channel documentation for Chicago OSS Devs.
 
 ## IRC Apps by Platform
 
-* Mac OS: [Adium](https://adium.im/) | [Colloquy](http://colloquy.info/project/) | [Textual](https://www.codeux.com/textual/) | [Limechat](http://limechat.net/mac/) | [irssiX](http://adlr.info/?Irssix) | irssi: `gem install irssi`
+* Mac OS: [Adium](https://adium.im/) | [Colloquy](http://colloquy.info/project/) | [Textual](https://www.codeux.com/textual/) | [Limechat](http://limechat.net/mac/) | [irssiX](http://adlr.info/?Irssix)
 * Linux: [Konversation](https://konversation.kde.org/) | [Pidgin](http://www.pidgin.im/) | [xchat](http://xchat.org/) | [irssi](http://www.irssi.org/)
 * Windows: [mIRC](http://www.mirc.com/get.html) | [Pidgin](http://www.pidgin.im/) | [xchat](https://hexchat.github.io/)
 * Android: [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en) | [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en)
