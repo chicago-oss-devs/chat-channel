@@ -12,13 +12,28 @@ Chat channel documentation for Chicago OSS Devs.
 
 #### IRC Server & Channel Information
 
-- nyi...
+###### Freednote Chat Server
+* Server: `chat.freenode.net`
+* Port: `7000`
+* SSL: `enabled`
 
+###### Channel
+* Join the channel named `#chicago-oss-devs`
+* This may also be joined using the IRC command `/join #chicago-oss-devs`
 
-#### Registering an account
+#### Registering and Logging In
 
-- nyi....
+You should choose a nickname (known as a *nick*). Once you've decided upon a cool name, you should register it:
 
+`/msg NickServ REGISTER <password> <youremail@example.com>`
+
+When you need to log back in, you will need to `identify` yourself to claim your account. You don't want strangers parading around as you, do you? To identify yourself, enter:
+
+`/msg NickServ IDENTIFY <nick> <password>`
+
+After logging in the first time, you should force anyone using your nick to login (otherwise they will be kicked off the server), preventing potential abuse:
+
+`/msg NickServ SET ENFORCE ON`
 
 #### The Freenode Community & Channel Policies
 
