@@ -2,8 +2,9 @@
 
 Chat channel documentation for Chicago OSS Devs.
 
-## Recommend Apps
+## IRC Apps by Platform
 
+* Android: [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en) | [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en)
 
 ## Connecting with an IRC Client
 
